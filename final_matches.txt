@@ -1,0 +1,16 @@
+﻿49	Round of 16	28-Jun	13:00	Estádio Mineirão	Belo Horizonte	Brazil	"3-2 pen. 1-1 (1-1, 1-1)"	Chile	3	2
+50	Round of 16	28-Jun	17:00	Estádio do Maracanã	Rio de Janeiro	Colombia	2-0 (1-0)	Uruguay	2	0
+51	Round of 16	29-Jun	13:00	Estádio Castelão	Fortaleza	Netherlands	2-1 (0-0)	Mexico	2	1
+52	Round of 16	29-Jun	17:00	Arena Pernambuco	Recife	Costa Rica	"5-3 pen. 1-1 (1-1, 0-0)"	Greece	5	3
+53	Round of 16	30-Jun	13:00	Estádio Nacional Mané Garrincha	Brasília	France	2-0 (0-0)	Nigeria	2	0
+54	Round of 16	30-Jun	17:00	Estádio Beira-Rio	Porto Alegre	Germany	"2-1 (0-0, 0-0)"	Algeria	2	1
+55	Round of 16	1-Jul	13:00	Arena de São Paulo	São Paulo	Argentina	"1-0 (0-0, 0-0)"	Switzerland	1	0
+56	Round of 16	1-Jul	17:00	Arena Fonte Nova	Salvador	Belgium	"2-1 (0-0, 0-0)"	United States	2	1
+57	Quarter-finals	4-Jul	17:00	Estádio Castelão	Fortaleza	Brazil	2-1 (1-0)	Colombia	2	1
+58	Quarter-finals	4-Jul	13:00	Estádio do Maracanã	Rio de Janeiro	France	0-1 (0-1)	Germany	0	1
+59	Quarter-finals	5-Jul	17:00	Arena Fonte Nova	Salvador	Netherlands	"4-3 pen. 0-0 (0-0, 0-0)"	Costa Rica	4	3
+60	Quarter-finals	5-Jul	13:00	Estádio Nacional Mané Garrincha	Brasília	Argentina	1-0 (1-0)	Belgium	1	0
+61	Semi-finals	8-Jul	17:00	Estádio Mineirão	Belo Horizonte	Brazil	1-7 (0-5)	Germany	1	7
+62	Semi-finals	9-Jul	17:00	Arena de São Paulo	São Paulo	Netherlands	"2-4 pen. 0-0 (0-0, 0-0)"	Argentina	2	4
+63	Match for third place	12-Jul	17:00	Estádio Nacional Mané Garrincha	Brasília	Brazil	0-3 (0-2)	Netherlands	0	3
+64	Final	13-Jul	16:00	Estádio do Maracanã	Rio de Janeiro	Germany	"1-0 (0-0, 0-0)"	Argentina	1	0

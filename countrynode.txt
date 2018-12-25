@@ -1,0 +1,32 @@
+12341	Brazil
+12342	Croatia
+12343	Mexico
+12344	Cameroon
+12345	Spain
+12346	Netherlands
+12347	Chile
+12348	Australia
+12349	Colombia
+12350	Greece
+12351	Cote d'Ivoire
+12352	Japan
+12353	Uruguay
+12354	Costa Rica
+12355	England
+12356	Italy
+12357	Switzerland
+12358	Ecuador
+12359	France
+12360	Honduras
+12361	Argentina
+12362	Bosnia-Herzegovina
+12363	Iran
+12364	Nigeria
+12365	Germany
+12366	Portugal
+12367	Ghana
+12368	United States
+12369	Belgium
+12370	Algeria
+12371	Russia
+12372	South Korea

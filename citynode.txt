@@ -1,0 +1,12 @@
+8942	São Paulo	 Arena de São Paulo
+8943	Natal	 Estádio das Dunas
+8944	Fortaleza	 Estádio Castelão
+8945	Manaus	 Arena Amazônia
+8946	Brasília	 Estádio Nacional Mané Garrincha
+8947	Recife	 Arena Pernambuco
+8948	Salvador	 Arena Fonte Nova
+8949	Cuiabá	 Arena Pantanal
+8950	Rio de Janeiro	 Estádio do Maracanã
+8951	Porto Alegre	 Estádio Beira-Rio
+8952	Curitiba	 Arena da Baixada
+8953	Belo Horizonte	 Estádio Mineirão

@@ -1,2 +1,12 @@
-﻿100001	Estádio Castelão
-100002	Arena Pernambuco
+1000715	 Arena de São Paulo
+1000716	 Estádio das Dunas
+1000717	 Estádio Castelão
+1000718	 Arena Amazônia
+1000719	 Estádio Nacional Mané Garrincha
+1000720	 Arena Pernambuco
+1000721	 Arena Fonte Nova
+1000722	 Arena Pantanal
+1000723	 Estádio do Maracanã
+1000724	 Estádio Beira-Rio
+1000725	 Arena da Baixada
+1000726	 Estádio Mineirão
